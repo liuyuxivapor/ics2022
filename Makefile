@@ -1,6 +1,5 @@
-STUID = 211220000
-STUNAME = 张三
-
+STUID = 120L010704
+STUNAME = 孙雪健
 # DO NOT modify the following code!!!
 
 GITFLAGS = -q --author='tracer-ics2022 <tracer@njuics.org>' --no-verify --allow-empty
